@@ -20,13 +20,13 @@ public class Second {
 
          System.out.println("before swapping"+ a + " "+ b);
          
-        /*temp = a;
+        temp = a;
         a = b;
-        b = temp;*/
+        b = temp;
 
-       a = a+b;
+       /*a = a+b;
        b = a -b;   //without using the third variable
-       a = a-b;
+       a = a-b;*/
 
         System.out.println("after swapping"+ a + " "+ b);
 
