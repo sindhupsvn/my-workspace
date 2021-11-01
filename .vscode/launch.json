@@ -1,0 +1,685 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch tenth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.tenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ninth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.ninth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourth",
+            "request": "launch",
+            "mainClass": "codingpractice.Fourth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch third",
+            "request": "launch",
+            "mainClass": "codingpractice.Strings.third",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "codingpractice.Second",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "codingpractice.Strings.First",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Seventh",
+            "request": "launch",
+            "mainClass": "Exception.Seventh",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChainedException",
+            "request": "launch",
+            "mainClass": "Exception.ChainedException",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructor",
+            "request": "launch",
+            "mainClass": "Exception.constructor",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch twentyfour",
+            "request": "launch",
+            "mainClass": "Exception.twentyfour",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch twentythree",
+            "request": "launch",
+            "mainClass": "Exception.twentythree",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thirteen",
+            "request": "launch",
+            "mainClass": "Exception.Thirteen",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourteenth",
+            "request": "launch",
+            "mainClass": "Exception.fourteenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fifteenth",
+            "request": "launch",
+            "mainClass": "Exception.Fifteenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sixth",
+            "request": "launch",
+            "mainClass": "Exception.Sixth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "Exception.First",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenposition",
+            "request": "launch",
+            "mainClass": "Arrays.allpractice.evenposition",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "Arrays.reverse",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicate",
+            "request": "launch",
+            "mainClass": "Arrays.allpractice.duplicate",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotateleft",
+            "request": "launch",
+            "mainClass": "Arrays.allpractice.rotateleft",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "Arrays.allpractice.first",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "Arrays.sort",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch storeexception",
+            "request": "launch",
+            "mainClass": "Arrays.storeexception",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch third",
+            "request": "launch",
+            "mainClass": "Programs.third",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch copyingelements",
+            "request": "launch",
+            "mainClass": "Arrays.copyingelements",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Programs.Second",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "Programs.First",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiarray1",
+            "request": "launch",
+            "mainClass": "Arrays.multiarray1",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Missingnumber",
+            "request": "launch",
+            "mainClass": "Arrays.Missingnumber",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch separatezeros",
+            "request": "launch",
+            "mainClass": "Arrays.separatezeros",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersection",
+            "request": "launch",
+            "mainClass": "Arrays.intersection",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairofelements",
+            "request": "launch",
+            "mainClass": "Arrays.pairofelements",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondlargest",
+            "request": "launch",
+            "mainClass": "Arrays.secondlargest",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicate",
+            "request": "launch",
+            "mainClass": "Arrays.duplicate",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraypractice",
+            "request": "launch",
+            "mainClass": "arraypractice",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch practicearray",
+            "request": "launch",
+            "mainClass": "Arrays.practicearray",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Arrays.Practice",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Twodimensional",
+            "request": "launch",
+            "mainClass": "Arrays.Twodimensional",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiarray",
+            "request": "launch",
+            "mainClass": "Arrays.Multiarray",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSuper4",
+            "request": "launch",
+            "mainClass": "TestSuper4",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourtythree",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Fourtythree",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThirtyThree",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.ThirtyThree",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thirtytwo",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Thirtytwo",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thirty",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Thirty",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwentyFour",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.TwentyFour",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwentyThree",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.TwentyThree",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwentyTwo",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.TwentyTwo",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Twenty",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Twenty",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ninteenth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Ninteenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Seventeenth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Seventeenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fifteenth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Fifteenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourteenth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Fourteenth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thirteen",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Thirteen",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Twelth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Twelth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sixth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Sixth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fifth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Fifth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Eigth",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.Eigth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "Strings.Assignment.First",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "Strings.swap",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch remove",
+            "request": "launch",
+            "mainClass": "Strings.remove",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Capacity",
+            "request": "launch",
+            "mainClass": "Strings.Capacity",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Strings.Reverse",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Replace",
+            "request": "launch",
+            "mainClass": "Strings.Replace",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Strings.Demo",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Abstraction.Second",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch riding",
+            "request": "launch",
+            "mainClass": "Polymorphism.riding",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorOver",
+            "request": "launch",
+            "mainClass": "OperatorOver",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tea",
+            "request": "launch",
+            "mainClass": "Tea",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Load",
+            "request": "launch",
+            "mainClass": "Load",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringMethods",
+            "request": "launch",
+            "mainClass": "Strings.StringMethods",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Inheritance.Test",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Elsa",
+            "request": "launch",
+            "mainClass": "Inheritance.Elsa",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ram",
+            "request": "launch",
+            "mainClass": "Inheritance.Ram",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encaps",
+            "request": "launch",
+            "mainClass": "Encapsulation.Encaps",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "request": "launch",
+            "mainClass": "constructors.Run",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch constructor",
+            "request": "launch",
+            "mainClass": "constructors.constructor",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrongnumber",
+            "request": "launch",
+            "mainClass": "Practice.Armstrongnumber",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alphabetsornot",
+            "request": "launch",
+            "mainClass": "Practice.Alphabetsornot",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inter1",
+            "request": "launch",
+            "mainClass": "ThirdPackage.Inter1",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Square",
+            "request": "launch",
+            "mainClass": "Interface.Square",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "Interface.Test2",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Custom",
+            "request": "launch",
+            "mainClass": "Interface.Custom",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inner",
+            "request": "launch",
+            "mainClass": "Inner",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Orange",
+            "request": "launch",
+            "mainClass": "Orange",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch T",
+            "request": "launch",
+            "mainClass": "T",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fast",
+            "request": "launch",
+            "mainClass": "Interface.Fast",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "Interface.A",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Interface.Test",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Interface.Second",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "request": "launch",
+            "mainClass": "Interface.Run",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourth",
+            "request": "launch",
+            "mainClass": "Interface.Fourth",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "request": "launch",
+            "mainClass": "Run",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "my workspace_8d1668e1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
